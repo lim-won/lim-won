@@ -23,7 +23,7 @@
 ⚡ Motto         속도와 완성도, 두 마리 토끼 — speed without sacrificing quality
 ```
 
----
+----
 
 ## 🛠️ Tech Stack
 
